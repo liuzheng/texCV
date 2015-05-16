@@ -1,0 +1,3 @@
+[submodule "fancyresume"]
+	path = fancyresume
+	url = https://github.com/roycoding/fancyresume.git
